@@ -1,2 +1,5 @@
 # testrepo
-I am creating a new repository to learn how to use Github
+
+# Editing the file
+
+It is a markdown file in this repository
